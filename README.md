@@ -1,6 +1,6 @@
 # 💧 Standard Drink Calculator
 
-A simple, bilingual (English/Español) web app to calculate the amount of an alcoholic beverage needed to reach a desired number of US standard drinks, with optional dilution calculation.
+A simple, bilingual (English/Español) web app to calculate the amount of an alcoholic beverage needed to reach a desired number of US standard drinks, with optional dilution calculation. Features excellent decimal precision.
 
 👉 [Website Link](https://neutrovertido.github.io/standard-drink-calculator/). 🇬🇧/🇪🇸
 
